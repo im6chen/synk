@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 // 这是mac提交的
+// 这是ubuntu提交的
 func main() {
 	fmt.Println("hello")
 }
